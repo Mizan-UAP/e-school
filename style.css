@@ -1,0 +1,94 @@
+.container{
+    margin-bottom: 150px;
+}
+
+.icon-size{
+    height: 80px;
+    width: 250px;
+}
+.button-design{
+    border: none;
+    border-radius: 18px;
+    height: 40px;
+    width: 75px;
+    text-align: justify;
+    background-image: linear-gradient(90deg, rgba(12, 182, 89, 0.466),rgb(12, 182, 88));
+}
+.carousel-bg{
+    border-radius: 18px;
+    background-color: rgba(245, 222, 179, 0.486);
+}
+h6{
+    color: red;
+}
+h1{
+
+    color: black;
+}
+.text-color{
+color: rgb(1, 160, 73);
+}
+.button-inside-carousel{
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 20px;
+    text-align: justify;
+    background-image: linear-gradient(90deg, rgba(12, 182, 89, 0.466),rgb(12, 182, 88));
+}
+.col-5-padding{
+    margin: 50px;
+    
+}
+.Specialities-title{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.Specialities{
+    height: 200px;
+    width: 200px;
+}
+.cat-1{
+    height: 180px;
+    width: 170px;
+}
+.row h6{
+    color: grey;
+}
+.text-align{
+    padding-top: 10px;
+    text-align: center;
+}
+.card-margining{
+    margin: 50px;
+}
+h5{
+    color: rgba(61, 17, 94, 0.932);
+}
+.footer-img-size{
+    height: 20px;
+    width: 20px;
+    
+}
+.testimonial-img{
+    height: 150px;
+    width: 150px;
+}
+.footer-bg{
+    height: 350px;
+    background-color: rgb(35, 5, 68);
+}
+.txt-colour{
+color: white;
+}
+.footer-margin{
+    margin-top: 65px;
+    margin-left: 60px;
+}
+#footer-align{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.f-marin{
+    margin-top: 100px;
+}
