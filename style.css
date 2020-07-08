@@ -59,6 +59,15 @@ color: rgb(1, 160, 73);
     padding-top: 10px;
     text-align: center;
 }
+
+.image-size{
+    
+    box-shadow: 7px 10px 25px rgba(128, 128, 128, 0.986);
+    border-radius: 10px;
+    height: 50%;
+    
+    
+}
 .card-margining{
     margin: 50px;
 }
@@ -94,4 +103,11 @@ color: white;
 }
 .mgn-footer{
     margin-bottom: 90px;
+}
+.video-sec-bg{
+    padding: 50px 30px;
+    height:350px;    
+    border: none;
+    border-radius: 15px;
+    background-color: rgba(0, 128, 128, 0.322);
 }
