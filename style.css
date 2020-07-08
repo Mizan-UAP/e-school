@@ -52,7 +52,7 @@ color: rgb(1, 160, 73);
     height: 180px;
     width: 170px;
 }
-.row h6{
+.cat2{
     color: grey;
 }
 .text-align{
@@ -91,4 +91,7 @@ color: white;
 }
 .f-marin{
     margin-top: 100px;
+}
+.mgn-footer{
+    margin-bottom: 90px;
 }
